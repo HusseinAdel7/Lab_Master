@@ -1,15 +1,3 @@
----
-title: Strong-Stego
-classes: wide
-header:
-  teaser: https://github.com/user-attachments/assets/925c846e-b054-472e-90dc-bbb3e887bbd1
-ribbon: MidnightBlue
-categories:
-  - Graduation_Project
-toc: true
----
-
-
 > # Lab_Master
 # Lab_Master
 
