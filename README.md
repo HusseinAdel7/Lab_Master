@@ -1,7 +1,7 @@
 > # Lab_Master
 # Lab_Master
 
-**Lab_Master** is a desktop application designed to streamline the management of IT Department labs. It provides detailed insights into labs, computers, software, and students, while offering automation for group and student distribution.
+**Lab_Master** is a desktop application designed to streamline the management of IT Department labs. It provides detailed insights into labs, computers, software, and students while offering group and student distribution automation.
 
 ---
 
@@ -72,3 +72,12 @@ The app automates lab and computer assignments:
 - View lab and computer details in-app.
 - Generate and save reports in **TXT** or **XLSX** formats.
 - Print reports directly for quick access.
+  
+---
+
+## Used Technologies 
+- C#
+- SQL Server
+- WPF
+- ADO.NET
+
