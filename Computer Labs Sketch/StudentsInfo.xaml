@@ -1,0 +1,179 @@
+﻿<Window x:Class="Computer_Labs_Sketch.StudentsInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Computer_Labs_Sketch"
+        mc:Ignorable="d"
+        Title="StudentsInfo" 
+         Height="780" Width="1300"
+    WindowStyle="None"
+    WindowStartupLocation="CenterScreen"
+    ResizeMode="NoResize"
+    Background="White" >
+
+    <Window.Resources>
+        <!-- Define the CenteredCellTextStyle -->
+        <Style x:Key="CenteredCellTextStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="black"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        
+
+
+        <!--Laying Out-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <!--The Header Grid-->
+        <Grid Background="#cccccc" Grid.ColumnSpan="3" MouseDown="Grid_MouseDown" Margin="0,-8,0,8" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+
+                <Label Content="معلومات عن الطالب المستخدم لهذا الحهاز "
+            Foreground="Black"
+            FontSize="23"
+            FontWeight="SemiBold" Margin="518,-4,-304,4"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <StackPanel HorizontalAlignment="Right"
+                 Orientation="Horizontal">
+                    <Button Width="30" 
+                 Height="30" 
+                 Content="—"
+                 Background="Transparent"
+                 Foreground="white"
+                 BorderThickness="0"
+                 FontSize="22"
+                 FontWeight="bold"
+                 Margin="0 0 13 0"
+                 Click="ButtonMinimize_Click"/>
+                    <Button Width="30" 
+                 Height="30" 
+                 Content="❌"
+                 Background="Transparent"
+                 Foreground="Red"
+                 BorderThickness="0"
+                 FontSize="20"
+                 Click="ButtonClose_Click"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+
+
+
+        <!--DataGrid-->
+        <Grid>
+            
+            <StackPanel Margin="214,171,198,-542">
+                <DataGrid Height="410"
+              x:Name="students" 
+              AutoGenerateColumns="False" 
+              IsReadOnly="True"
+              Width="848"
+              HorizontalContentAlignment="Center"
+              Background="#9c9797">
+                    <DataGrid.Resources>
+                        <Style TargetType="{x:Type ScrollBar}">
+                            <Setter Property="Background" Value="Black"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="BorderBrush" Value="#0f0f2d"/>
+                        </Style>
+                        <Style TargetType="{x:Type DataGrid}">
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="BorderBrush" Value="white"/>
+                        </Style>
+                        <Style TargetType="{x:Type DataGridColumnHeader}">
+                            <Setter Property="Background" Value="#cccccc"/>
+                            <Setter Property="Foreground" Value="black"/>
+                            <Setter Property="FontSize" Value="20"/>
+                            <Setter Property="FontWeight" Value="SemiBold"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="BorderBrush" Value="white"/>
+                        </Style>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="Background" Value="#ada8a8"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Style>
+                    </DataGrid.Resources>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="الرقم التسلسلي للطالب" Binding="{Binding studentID}" Width="218">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource CenteredCellTextStyle}"/>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="اسم الطالب" Binding="{Binding StudentName}" Width="260">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource CenteredCellTextStyle}"/>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="رقم الطالب" Binding="{Binding studentNumber}" Width="200">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource CenteredCellTextStyle}"/>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="الفرقة" Binding="{Binding groupName}" Width="162">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource CenteredCellTextStyle}"/>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+
+        </Grid>
+        <Button  Content="" 
+     HorizontalAlignment="Left" 
+     Margin="1171,24,0,657" 
+     Width="125"
+     Foreground="white"
+     FontSize="35"
+     BorderThickness="0"
+     x:Name="Back"
+     Click="Backbtn" Grid.Row="1" >
+            <Button.Background>
+                <ImageBrush  ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\back.png"
+             Stretch="Uniform"
+             AlignmentX="Center"
+             AlignmentY="Center"/>
+            </Button.Background>
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#181735"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#0f0f2d"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border  Width="90"
+                 Height="30"
+                 CornerRadius="15"
+                 Background="{TemplateBinding Background}">
+                        <ContentPresenter   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+    </Grid>
+</Window>

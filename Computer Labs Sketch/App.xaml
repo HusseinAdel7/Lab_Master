@@ -1,0 +1,9 @@
+﻿<Application x:Class="Computer_Labs_Sketch.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Computer_Labs_Sketch"
+             StartupUri="LoadingPage.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

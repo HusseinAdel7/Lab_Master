@@ -1,0 +1,366 @@
+﻿<Window x:Class="Computer_Labs_Sketch.TechnicalValidityPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Computer_Labs_Sketch"
+        mc:Ignorable="d"
+        Title="TechnicalValidityPage" 
+                Height="810" Width="1500"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="White">
+    <Grid>
+
+        <!--Laying Out-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--The Header Grid-->
+        <Grid Background="#cccccc" Grid.ColumnSpan="3" MouseDown="Grid_MouseDown" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Label Content="الصلاحية الفنية"
+                  Foreground="black"
+                  FontSize="25"
+                  FontWeight="SemiBold" Margin="690,-3,-179,-12"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <StackPanel HorizontalAlignment="Right"
+                       Orientation="Horizontal">
+                    <Button Width="30" 
+                       Height="30" 
+                       Content="—"
+                       Background="Transparent"
+                       Foreground="white"
+                       BorderThickness="0"
+                       FontSize="22"
+                       FontWeight="bold"
+                       Margin="0 0 13 0"
+                       Click="ButtonMinimize_Click"/>
+
+                    <Button Width="30" 
+                       Height="30" 
+                       Content="❌"
+                       Background="Transparent"
+                       Foreground="Red"
+                       BorderThickness="0"
+                       FontSize="20"
+                       Click="ButtonClose_Click"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+
+        <Grid Background="#ffffff" Grid.ColumnSpan="3" Margin="-1,38,0,2" Grid.RowSpan="2">
+            <Grid>
+                <Label Content="الصلاحية الفنية لمعامل جناح الحاسب الألي"
+                        Foreground="black"
+                        FontSize="65"
+                        FontWeight="SemiBold" 
+                       Margin="175,30,198,613"/>
+            </Grid>
+
+
+            <Button Content="معمل 1"
+                    x:Name="lab1"
+                    Click="tvlbtn"
+                    Foreground="White"
+                    FontSize="55"
+                    FontWeight="Medium"
+                    Margin="82,195,1124,425"  >
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="230"
+                    Height="88"
+                    CornerRadius="21"
+                    Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                  HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="معمل 2"
+                x:Name="lab2"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="464,212,790,442"  >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="230"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="معمل 3"
+                x:Name="lab3"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="804,200,444,430" >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="230"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="معمل 4"
+                x:Name="lab4"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="1127,200,121,430"  >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="230"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="معمل سيسكو"
+                x:Name="lab7"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="1064,416,58,230" >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="340"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="فصل حاسب 2"
+                x:Name="lab6"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="569,416,553,230">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="340"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="فصل حاسب 1"
+                x:Name="lab5"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="40,416,1082,230"  >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="340"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="كل المعامل"
+                x:Name="lab8"
+                Foreground="White"
+                FontSize="55"
+                Click="tvlbtn"
+                FontWeight="Medium"
+                Margin="569,589,553,57" >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#464646"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#292828"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="340"
+                            Height="88"
+                            CornerRadius="21"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+
+        </Grid>
+        <Button  Content="" 
+                HorizontalAlignment="Left" 
+                Margin="644,28,0,699" 
+                Width="73"
+                Foreground="white"
+                FontSize="35"
+                BorderThickness="0"
+                x:Name="Back"
+                Click="Backbtn" Grid.Column="2" RenderTransformOrigin="0.5,0.5" Grid.Row="1" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush  ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\back.png"
+            Stretch="Uniform"
+            AlignmentX="Center"
+            AlignmentY="Center"/>
+            </Button.Background>
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#181735"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#0f0f2d"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border  Width="90"
+            Height="30"
+            CornerRadius="15"
+            Background="{TemplateBinding Background}">
+                        <ContentPresenter   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>

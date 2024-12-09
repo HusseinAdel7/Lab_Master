@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddDonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AlreadyinDBPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChoosingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChoosingTablesToInsert.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ComputerInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ComputersTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CyberSecLab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DataFieldsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteDonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroupsLabTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroupsTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabsTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LMSLab1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LMSLab2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LMSLab3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LMSLab5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoadingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MoreInfoAboutComputersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelectLabPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchCiscoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchClass1Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchClass2Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchLab1Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchLab2Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchLab3Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SketchLab4Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SoftwareInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SoftwaresTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StudentsInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StudentsTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TechnicalValidityForLab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TechnicalValidityPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateDonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddDonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AlreadyinDBPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChoosingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChoosingTablesToInsert.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ComputerInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ComputersTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CyberSecLab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DataFieldsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteDonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GroupsLabTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GroupsTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LabsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LabsTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LMSLab1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LMSLab2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LMSLab3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LMSLab5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoadingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MoreInfoAboutComputersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SelectLabPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchCiscoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchClass1Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchClass2Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchLab1Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchLab2Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchLab3Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SketchLab4Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SoftwareInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SoftwaresTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StudentsInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StudentsTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TechnicalValidityForLab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TechnicalValidityPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateDonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,409 @@
+﻿<Window x:Class="Computer_Labs_Sketch.SoftwaresTablePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Computer_Labs_Sketch"
+        mc:Ignorable="d"
+        Title="SoftwaresTablePage"  Height="780" Width="1300"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="white"  >
+    <Window.Resources>
+        <Style x:Key="RoundedTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="BorderBrush" Value="Black" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                      BorderBrush="{TemplateBinding BorderBrush}"
+                      BorderThickness="{TemplateBinding BorderThickness}"
+                      CornerRadius="10">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+
+    <Grid>
+
+
+        <!--Laying Out-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <!--The Header Grid-->
+        <Grid Background="#cccccc" Grid.ColumnSpan="3" MouseDown="Grid_MouseDown" Margin="0,-8,0,8" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid/>
+            <Grid Grid.Column="2">
+                <StackPanel HorizontalAlignment="Right"
+                            Orientation="Horizontal">
+                    <Button  Width="30" 
+                             Height="30" 
+                             Content="—"
+                             Background="Transparent"
+                             Foreground="white"
+                             BorderThickness="0"
+                             FontSize="22"
+                             FontWeight="bold"
+                             Margin="0 0 13 0"
+                             Click="ButtonMinimize_Click"/>
+                    <Button  Width="30" 
+                             Height="30" 
+                             Content="❌"
+                             Background="Transparent"
+                             Foreground="Red"
+                             BorderThickness="0"
+                             FontSize="20"
+                             Click="ButtonClose_Click"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+
+        <!--TextBoxes-->
+        <Grid Grid.Row="2" Grid.Column="1">
+            <StackPanel>
+                <!-- Welcome Text and Back Button -->
+                <StackPanel>
+                    <Label Content="جدول البرامج "
+                           Foreground="Black"
+                           FontSize="28"
+                           FontWeight="Bold" Width="176" Height="50"/>
+                    <Label Content="---------------------------"
+                           Foreground="Black"
+                           FontSize="28"
+                           FontWeight="Bold" 
+                           Width="219" 
+                           Height="50"
+                           Margin="-19 -25 0 0 "/>
+                    <Button  Content="" 
+                             HorizontalAlignment="Left" 
+                             Margin="1160 -75 0 0" 
+                             Width="149" 
+                             Height="65"
+                             Foreground="white"
+                             FontSize="35"
+                             BorderThickness="0"
+                             x:Name="Back"
+                             Click="Backbtn">
+                        <Button.Background>
+                            <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\back.png"
+                                         Stretch="Uniform"
+                                         AlignmentX="Center"
+                                         AlignmentY="Center"/>
+                        </Button.Background>
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#181735"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#0f0f2d"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border  Width="90"
+                                         Height="30"
+                                         CornerRadius="15"
+                                         Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                                                        HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+
+
+            </StackPanel>
+
+
+        </Grid>
+
+
+        <!--Buttons-->
+        <Grid>
+            <StackPanel Margin="728,140,62,-295">
+                <StackPanel Width="446">
+                    <Button Content="إضافة"
+                            Click="Addbtn"
+                            Foreground="White"
+                            Margin=" -140 0 0 0"
+                            FontSize="25"
+                            FontWeight="Medium"
+                            Width="153">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#464646"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#292828"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border   Width="120"
+                                          Height="39"
+                                          CornerRadius="13"
+                                          Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                                                        HorizontalAlignment="Center"/>
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+
+
+                    </Button>
+                    <Button Content="تحديث"
+                            Click="Updatebtn"
+                            Foreground="White"
+                            Margin=" 250 -37 0 0"
+                            FontSize="25"
+                            FontWeight="Medium"
+                            Width="153">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#464646"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#292828"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border   Width="120"
+                      Height="39"
+                      CornerRadius="13"
+                      Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+
+
+                    </Button>
+                    <Button Content="حذف"
+                            Click="Deletebtn"
+                            Foreground="White"
+                            Margin=" -140 47 0 0"
+                            FontSize="25"
+                            FontWeight="Medium"
+                            Width="153">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#464646"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#292828"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border   Width="120"
+                                          Height="39"
+                                          CornerRadius="13"
+                                          Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                HorizontalAlignment="Center"/>
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+
+
+                    </Button>
+                    <Button Content="مسح"
+                            Click="Resetbtn"
+                            Foreground="White"
+                            Margin=" 250 -47 0 0"
+                            FontSize="25"
+                            FontWeight="Medium"
+                            Width="153">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#464646"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#292828"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border   Width="120"
+                          Height="39"
+                          CornerRadius="13"
+                          Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                                                        HorizontalAlignment="Center"/>
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+
+
+                    </Button>
+                    <Button Content="رجوع"
+                            Foreground="White"
+                            Margin=" 55 27 0 0"
+                            FontSize="25"
+                            FontWeight="Medium"
+                            x:Name="Back2"
+                            Click="Back2btn"
+                            Width="314">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Background" Value="#464646"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#292828"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border   Width="310"
+                                          Height="39"
+                                          CornerRadius="13"
+                                          Background="{TemplateBinding Background}">
+                                    <ContentPresenter   VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+
+
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+
+        <!--DataGrid-->
+        <Grid>
+
+            <StackPanel Margin="161,432,147,-726">
+                <DataGrid Height="317"
+                          x:Name="softwares" 
+                          AutoGenerateColumns="False" 
+                          HorizontalContentAlignment="Center"
+                          IsReadOnly="True"
+                          SelectionChanged="DataGrid_SelectionChanged" Width="979">
+                    <DataGrid.Resources>
+                        <Style TargetType="{x:Type DataGrid}">
+                            <Setter Property="Background" Value="#9c9797"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="BorderBrush" Value="white"/>
+                        </Style>
+                        <Style TargetType="{x:Type DataGridColumnHeader}">
+                            <Setter Property="Background" Value="#CCCCCC"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="FontSize" Value="20"/>
+                            <Setter Property="FontWeight" Value="SemiBold"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="BorderBrush" Value="white"/>
+                        </Style>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="Background" Value="#ada8a8"/>
+                        </Style>
+                    </DataGrid.Resources>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="رقم الرنامج" Binding="{Binding softwareID}" Width="150" />
+                        <DataGridTextColumn Header=" اسم البرنامج" Binding="{Binding softwareName}" Width="200" />
+                        <DataGridTextColumn Header="اصدار البرنامج" Binding="{Binding version}" Width="200"/>
+                        <DataGridTextColumn Header="فئة البرنامج" Binding="{Binding softwareCategory}" Width="423"/>
+                      
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+
+        </Grid>
+        <Label Content=" اسم البرنامج"
+               Foreground="Black"
+               FontSize="18"
+               FontWeight="Bold" 
+               Margin="88,102,1055,602" Grid.Row="1"/>
+        <TextBox Margin="222,104,728,602"
+                 Height="34"
+                 x:Name="projname"
+                 FontSize="16"
+                 FontWeight="SemiBold"
+                 Foreground="#14011E"
+                 BorderThickness="2"
+                 BorderBrush="#133434"
+                  
+                 Style="{StaticResource RoundedTextBoxStyle}" Grid.Row="1" />
+        <Label Content=" اصدار البرنامج"
+            Foreground="black"
+            FontSize="18"
+            FontWeight="Bold" 
+            Margin="88,188,1055,516" Grid.Row="1"/>
+        <TextBox Margin="222,188,728,518"
+            Height="34"
+            x:Name="projversion"
+            FontSize="16"
+            FontWeight="SemiBold"
+            Foreground="#14011E"
+            BorderThickness="2"
+            BorderBrush="#133434"
+            
+            Style="{StaticResource RoundedTextBoxStyle}" Grid.Row="1" />
+        <Label Content=" فئة البرنامج"
+            Foreground="Black"
+            FontSize="18"
+            FontWeight="Bold" 
+            Margin="88,270,1055,434" Grid.Row="1"/>
+        <TextBox Margin="222,272,728,434"
+            Height="34"
+            x:Name="projcategory"
+            FontSize="16"
+            FontWeight="SemiBold"
+            Foreground="#14011E"
+            BorderThickness="2"
+            BorderBrush="#133434"
+            
+            Style="{StaticResource RoundedTextBoxStyle}" Grid.Row="1" />
+
+    </Grid>
+</Window>

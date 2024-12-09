@@ -1,0 +1,550 @@
+﻿<Window x:Class="Computer_Labs_Sketch.LMSLab3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Computer_Labs_Sketch"
+        mc:Ignorable="d"
+        Title="LMSLab3"
+       Height="810" Width="1500"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="White">
+    <Grid>
+
+        <!--Laying Out-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--The Header Grid-->
+        <Grid Background="#cccccc" Grid.ColumnSpan="3" MouseDown="Grid_MouseDown" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Label Content="كروكي فصل حاسب 2"
+                  Foreground="Black"
+                  FontSize="25"
+                  FontWeight="SemiBold" Margin="690,0,-194,0" Height="61" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <StackPanel HorizontalAlignment="Right"
+                       Orientation="Horizontal">
+                    <Button Width="30" 
+                       Height="30" 
+                       Content="—"
+                       Background="Transparent"
+                       Foreground="white"
+                       BorderThickness="0"
+                       FontSize="22"
+                       FontWeight="bold"
+                       Margin="0 0 13 0"
+                       Click="ButtonMinimize_Click"/>
+
+                    <Button Width="30" 
+                       Height="30" 
+                       Content="❌"
+                       Background="Transparent"
+                       Foreground="Red"
+                       BorderThickness="0"
+                       FontSize="20"
+                       Click="ButtonClose_Click"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+        <!--All Buttons And Pictures-->
+        <Grid Background="#ffffff" Grid.ColumnSpan="3" Margin="-1,38,0,2" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="611*"/>
+                <ColumnDefinition Width="24*"/>
+                <ColumnDefinition Width="12*"/>
+                <ColumnDefinition Width="754*"/>
+            </Grid.ColumnDefinitions>
+
+            <!--Door-->
+            <Button HorizontalAlignment="Left" 
+               Margin="-12,-30,0,0" 
+               VerticalAlignment="Top" 
+               Width="111" 
+               Height="146"
+               IsEnabled="False"
+               Foreground="white"
+               FontSize="35"
+               BorderThickness="0"
+               RenderTransformOrigin="0.407,-0.56" >
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\door.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                           CornerRadius="15"
+                           Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 1-->
+            <Button Margin="102,44,0,0" 
+ Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picuted1btn" 
+
+               RenderTransformOrigin="0.407,-0.56" 
+               VerticalAlignment="Top" 
+               HorizontalAlignment="Left" 
+               HorizontalContentAlignment="Left" 
+               VerticalContentAlignment="Top">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                       CornerRadius="15"
+                       Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <TextBlock  x:Name="infoTextBoxd1"  
+
+                   VerticalAlignment="Top" 
+                   Height="134"
+                   Foreground="white"
+                   FontSize="20"
+                   FontWeight="Bold"
+                   Visibility="Hidden"
+                   Background="#0c0c1f" 
+                   Margin="185,115,59,0">
+               <TextBlock Margin="10,0,0,0">D.N : 1</TextBlock> <LineBreak/>
+               <TextBlock Margin="10,0,0,0">S.N : 359614</TextBlock> <LineBreak/>
+               <TextBlock Margin="10,0,0,0">St.N : Hussein</TextBlock>
+       </TextBlock>
+
+            <!--Divce 2-->
+            <Button Content="" 
+               Margin="411,44,0,0" 
+ Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picured2btn" 
+               RenderTransformOrigin="0.407,-0.56" 
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left" 
+               HorizontalContentAlignment="Left" 
+               VerticalContentAlignment="Top">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                           CornerRadius="15"
+                           Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 3-->
+            <Button Content="" 
+               Margin="31,44,0,0" 
+ Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picured3btn" 
+               RenderTransformOrigin="0.407,-0.56"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left" 
+               HorizontalContentAlignment="Left" 
+               VerticalContentAlignment="Top" Grid.Column="3">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                       CornerRadius="15"
+                       Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 4-->
+            <Button Content="" 
+           Margin="321,44,0,0" 
+           Width="193" 
+           Height="185"
+           Foreground="white"
+           FontSize="35"
+           BorderThickness="0"
+           x:Name="Picured4btn" 
+           RenderTransformOrigin="0.407,-0.56" 
+           VerticalAlignment="Top" 
+           HorizontalAlignment="Left" 
+           HorizontalContentAlignment="Left" 
+           VerticalContentAlignment="Top" Grid.Column="3">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                       CornerRadius="15"
+                       Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 5-->
+            <Button Content="" 
+               Margin="593,44,0,0" 
+               Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picured5btn" 
+               RenderTransformOrigin="0.407,-0.56" 
+               Grid.Column="3" 
+               VerticalAlignment="Top" 
+               HorizontalAlignment="Left"
+               HorizontalContentAlignment="Left" 
+               VerticalContentAlignment="Top">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                           CornerRadius="15"
+                           Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 6-->
+
+            <!--Divce 7-->
+
+            <!--Divce 8-->
+            <Button Content="" 
+               Margin="468,532,0,0" 
+               Width="193" 
+                Height="185"
+                Foreground="white"
+                FontSize="35"
+               x:Name="Picured8btn"
+               BorderThickness="0" 
+               RenderTransformOrigin="0.407,-0.56" VerticalAlignment="Top" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Grid.Column="3" >
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                   Stretch="Uniform"
+                   AlignmentX="Center"
+                   AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                       CornerRadius="15"
+                       Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 9-->
+            <Button Content="" 
+               HorizontalAlignment="Left" 
+               Margin="127,532,0,0" 
+               VerticalAlignment="Top" 
+               Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picured9btn" 
+               RenderTransformOrigin="0.407,-0.56" Grid.Column="3">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                   Stretch="Uniform"
+                   AlignmentX="Center"
+                   AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                       CornerRadius="15"
+                       Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!--Divce 10-->
+            <Button Content="" 
+               HorizontalAlignment="Left" 
+               Margin="508,532,0,0" 
+               VerticalAlignment="Top" 
+ Width="193" 
+ Height="185"
+ Foreground="white"
+ FontSize="35"
+               BorderThickness="0"
+               x:Name="Picured10btn" 
+               RenderTransformOrigin="0.407,-0.56" Grid.ColumnSpan="4">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                           Stretch="Uniform"
+                           AlignmentX="Center"
+                           AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                           CornerRadius="15"
+                           Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                         HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button  Content="" 
+HorizontalAlignment="Left" 
+Margin="694,-61,0,666" 
+Width="125"
+Foreground="white"
+FontSize="35"
+BorderThickness="0"
+x:Name="Back"
+Click="Backbtn" Grid.Column="3" >
+                <Button.Background>
+                    <ImageBrush  ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\back.png"
+            Stretch="Uniform"
+            AlignmentX="Center"
+            AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border  Width="90"
+            Height="30"
+            CornerRadius="15"
+            Background="{TemplateBinding Background}">
+                            <ContentPresenter   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="" 
+                HorizontalAlignment="Left" 
+                Margin="185,532,0,0" 
+                VerticalAlignment="Top" 
+                Width="193" 
+                Height="185"
+                Foreground="white"
+                FontSize="35"
+                BorderThickness="0"
+                x:Name="Picured11btn" 
+                RenderTransformOrigin="0.407,-0.56">
+                <Button.Background>
+                    <ImageBrush ImageSource="G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\images\computer.png"
+                        Stretch="Uniform"
+                        AlignmentX="Center"
+                        AlignmentY="Center"/>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="#181735"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#0f0f2d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Height="200"
+                            CornerRadius="15"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+
+        </Grid>
+
+    </Grid>
+</Window>

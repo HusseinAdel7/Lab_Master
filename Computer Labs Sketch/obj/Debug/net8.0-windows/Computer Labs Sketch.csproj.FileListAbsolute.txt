@@ -1,0 +1,670 @@
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+G:\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+D:\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.AssemblyReference.cache
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\appsettings.json
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Core.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Identity.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.ClientModel.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Memory.Data.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer.CFA0BD73.Up2Date
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalvalidityPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.PDF.NET.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.barcodes.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.forms.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.io.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.kernel.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.layout.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfa.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfua.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.sign.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.svg.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.commons.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bc-fips-1.0.2.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bcpkix-fips-1.0.2.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-fips-adapter.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.pdfa.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.g.cs
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.baml
+G:\Projects\TMC Projects\New folder\7ussein\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.AssemblyReference.cache
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\appsettings.json
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.forms.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.io.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.layout.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.sign.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.svg.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bc-fips-1.0.2.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bcpkix-fips-1.0.2.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-fips-adapter.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.commons.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.pdfa.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.PDF.NET.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityPage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer.CFA0BD73.Up2Date
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsLabTablePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsLabTablePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\CyberSecLab.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab1.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab2.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab3.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab5.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\CyberSecLab.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab1.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab2.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab3.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab5.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AddDonePage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AlreadyinDBPage.g.cs
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AddDonePage.baml
+D:\work\hussein\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AlreadyinDBPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.exe
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\appsettings.json
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.deps.json
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.runtimeconfig.json
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Core.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Azure.Identity.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.barcodes.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.forms.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.io.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.kernel.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.layout.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfa.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.pdfua.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.sign.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.svg.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bc-fips-1.0.2.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\bcpkix-fips-1.0.2.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.bouncy-castle-fips-adapter.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itext.commons.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\itextsharp.pdfa.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.ClientModel.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Memory.Data.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.PDF.NET.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.AssemblyReference.cache
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AddDonePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AlreadyinDBPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\CyberSecLab.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsLabTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab1.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab2.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab3.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab5.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsTablePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityPage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\App.g.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.cache
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch_MarkupCompile.lref
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AddDonePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\AlreadyinDBPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ChoosingTablesToInsert.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputerInfo.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ComputersTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\CyberSecLab.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DataFieldsPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\DeleteDonePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsLabTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\GroupsTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LabsTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab1.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab2.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab3.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LMSLab5.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoadingPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\LoginPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MainWindow.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\MoreInfoAboutComputersPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SelectLabPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchCiscoPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass1Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchClass2Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab1Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab2Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab3Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SketchLab4Page.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwareInfo.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\SoftwaresTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsInfo.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\StudentsTablePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityForLab.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\TechnicalValidityPage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\UpdateDonePage.baml
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.g.resources
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfoInputs.cache
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.AssemblyInfo.cs
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.csproj.CoreCompileInputs.cache
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer.CFA0BD73.Up2Date
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\refint\Computer Labs Sketch.dll
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.pdb
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\Computer Labs Sketch.genruntimeconfig.cache
+G:\Projects\TMC Projects\MyProject\Newest One\Projects\TMC Projects\Computer Labs Sketch\Computer Labs Sketch - Copy\Computer Labs Sketch\obj\Debug\net8.0-windows\ref\Computer Labs Sketch.dll
