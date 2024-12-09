@@ -22,7 +22,7 @@ toc: true
 ### Lab Management
 1. **Lab Listings:**
    - View a comprehensive list of all labs in the IT Department.
-   - Visualize each lab with a detailed **sketch (كروكي)**.
+   - Visualize each lab with a detailed **sketch**.
 
 2. **Lab Efficiency Analysis:**
    - Assess lab statuses: **exists**, **outside**, **working well**, **has a problem**, and calculate efficiency percentage.
